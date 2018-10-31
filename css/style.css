@@ -632,3 +632,7 @@ nav ul li a {
 .credits {
   font-size: 13px;
 }
+
+.carousel-item{
+  max-height: 800px;
+}
