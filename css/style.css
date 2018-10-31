@@ -108,7 +108,7 @@ p {
   border: medium none;
   border-radius: 0;
   color: #fff;
-  font-size: 15px;
+  font-size: 12px;
   height: 50px;
   line-height: 50px;
   padding: 0 30px;
@@ -427,7 +427,7 @@ nav ul li a {
 }
 
 #portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
-  color: #b8a07e;
+  color: #025f9f;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -600,7 +600,7 @@ nav ul li a {
 
 #footer .socials-media ul li a {
   font-size: 24px;
-  color: #025f9f;
+  color: #b8a07e;
   letter-spacing: 0.1em;
   font-weight: 500;
   background: transparent;
@@ -613,7 +613,7 @@ nav ul li a {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #025f9f;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -627,6 +627,10 @@ nav ul li a {
   font-weight: 500;
   margin-top: 0;
   text-transform: uppercase;
+}
+
+#footer .mb-30{
+  color: #025f9f;
 }
 
 .credits {
