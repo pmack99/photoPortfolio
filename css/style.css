@@ -572,6 +572,22 @@ nav ul li a {
   font-size: 13px;
 }
 
+#contact .list-social{
+  font-size: 50px;
+}
+
+#contact .h2 {
+  color: #292929;
+  font-weight: 600;
+  font-size: 25px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+#contact a:hover{
+  color:#025f9f;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*  Footer
 /*-----------------------------------------------------------------------------------*/
