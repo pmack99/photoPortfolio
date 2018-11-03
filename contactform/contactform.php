@@ -7,7 +7,7 @@
 /***************** Configuration *****************/
 
 // Enter your email, where you want to receive the messages.
-$contact_email_to = "prestonmack@mac.com";
+$contact_email_to = "preston@pmack.com";
 
 // Subject prefix
 $contact_subject_prefix = "Contact Form Message: ";
